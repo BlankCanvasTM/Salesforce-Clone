@@ -4,3 +4,8 @@
 .dropdown:hover .dropdown-menu{
     display: block;
 }
+
+
+.blue_Text{
+    color: #032d60;
+}
